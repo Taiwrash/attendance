@@ -18,7 +18,7 @@
 #### Name: [MUDASIRU RASHEED TAIWO](https://github.com/Taiwrash)
 - Place: Minna, Niger State, Nigeria
 - Bio: Web Developer, Graphic Designer.
-- Stack: JavaScript
+- Stack: JavaScript; vanilla and node
 - Department: Computer Science
 - Interest: Troubleshooting and traveling.
 - GitHub: [Taiwrash](https://github.com/Taiwrash)
